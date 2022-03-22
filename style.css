@@ -829,6 +829,12 @@ h4 {
     background-image: url("imgOpt/image-de-presentation.jpg");
 }
 
+/* Modifications footer */
+.col-sm-4 ul li {
+    padding: 5px;
+    margin: 5px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
