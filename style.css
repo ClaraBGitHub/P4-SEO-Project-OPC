@@ -835,6 +835,12 @@ h4 {
     margin: 5px;
 }
 
+.col-sm-4 {
+    margin-top: 20px;
+}
+
+/*Fin modifications footer*/
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
